@@ -1,3 +1,5 @@
+## Dictionary application that allows the translation from one language into another.
+
 ### Dictionary App
 
 Backend
